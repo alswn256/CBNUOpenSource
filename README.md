@@ -6,5 +6,5 @@ CBNU Open Source Repo
 * 강산
 * 최수빈
 * 이민주
-* 짱
+* 쵝오
 * 그랜드체이스
