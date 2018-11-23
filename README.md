@@ -7,7 +7,7 @@ CBNU Open Source Repo
 * 최수빈
 * 이민주
 * 짱
-* 그랜드체이스
+* gc
 
 ## das
 * ㄹㅇㄴㅇ
